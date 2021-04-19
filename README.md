@@ -2,7 +2,16 @@
 
 ## 5 Examples
 
+### My Car (2012 Hyundai Santa Fe)
 
+### My Dad's Car (2017 Ford F150)
+
+### My Mom's Car (2014 Ford Escape)
+
+### Dad's Company Car (2005 Ford Prius)
+
+### Car from the Internet (Fiat Multipla)
+![Fiat-Multipla-Reddit](https://user-images.githubusercontent.com/18653460/115166482-117fb080-a079-11eb-9b92-62a3e122e969.png)
 
 ### Markdown
 
