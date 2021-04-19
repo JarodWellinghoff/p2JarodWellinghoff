@@ -18,9 +18,19 @@
 ### Car from the Internet (Fiat Multipla)
 ![Fiat-Multipla-Reddit](https://user-images.githubusercontent.com/18653460/115166482-117fb080-a079-11eb-9b92-62a3e122e969.png)
 
-### Markdown
+### Pros and Cons
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pros:
+- First 3 cars were decently readable from a glance
+- All except the Prius had the speedometer very accessible
+- Some had small LCD screens with movable menus to show more information than lights can show
+- Good use of colors, non-distracting RGB and use of red to show "Danger Zones"
+
+Cons:
+- Prius and Multipla were difficult to quickyly gleen information from
+- F150 has didecated gauges to things I'm unsure one would need, might be biased as I do not drive a truck
+- Some warning lights are small and easy to ignore
+- Multipla tries to have everything within an arms reach of the driver, ends up being busy and distracting
 
 ```markdown
 Syntax highlighted code block
