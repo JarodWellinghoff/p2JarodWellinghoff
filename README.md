@@ -32,20 +32,26 @@ Cons:
 - Some warning lights are small and easy to ignore
 - Multipla tries to have everything within an arms reach of the driver, ends up being busy and distracting
 
-```markdown
-Syntax highlighted code block
+## Common / Rare Features, and Suggestions
 
-# Header 1
-## Header 2
-### Header 3
+Common:
+- Read Speed
+- Read RPM
+- Read engine temperature
+- Read fuel tank level
+- Read outside temperature
+- Read warning lights
+- Seeing what gear I'm currently in 
 
-- Bulleted
-- List
+Rare:
+- Change/read in-car temperature
+- Complete diagnostic information that's only avaliable when driving
+- Entertainment (i.e radio, Apple CarPlay)
+- Oil level
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+Suggestions: 
+- Cusomize RGB to pick a color most pleasing to the driver's eye
+- Larger and brighter warning lights
+- Less busy design
+- Easy to read speedometer that's distingushable from the tachometer
+- Only show information that the driver would need while driving
